@@ -1,7 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_gmaps/.env.dart';
-import 'package:flutter_gmaps/directions_model.dart';
+import 'package:travellerapp/directions_model.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class DirectionsRepository {
@@ -21,7 +20,7 @@ class DirectionsRepository {
       queryParameters: {
         'origin': '${origin.latitude},${origin.longitude}',
         'destination': '${destination.latitude},${destination.longitude}',
-        'key': googleAPIKey,
+        'key': 'AIzaSyBMJlaUO1Wt-SA7SGQOHqLNc7Zq4R9ua-g',
       },
     );
 

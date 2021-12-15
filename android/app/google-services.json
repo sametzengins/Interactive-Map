@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473703144785",
+    "project_id": "setur-project",
+    "storage_bucket": "setur-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473703144785:android:3481d194bb66132ca10770",
+        "android_client_info": {
+          "package_name": "com.traveller.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473703144785-oaq9dpepma95bl4f1jn6aq5vmt197edv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.traveller.app",
+            "certificate_hash": "387f881ddb91d68fa7744cfe1100db316dae5c4d"
+          }
+        },
+        {
+          "client_id": "473703144785-6m9msinhtdeu3vul7pk76gr0fdn3pnss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBHsdESToYzKA5ynyP8NnghEiN6t4ZGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473703144785-6m9msinhtdeu3vul7pk76gr0fdn3pnss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
