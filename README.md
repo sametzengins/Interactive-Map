@@ -1,1 +1,1 @@
-# setur-interactive-tourist-map
+interactive-map
